@@ -1,0 +1,27 @@
+.body {
+  background-color:darkmagenta;
+  color:greenyellow;
+  font-family:courier;
+  font-size:200%;
+}
+.h1 {
+  color:black;
+  text-align:center;
+}
+.select, .input {
+  background-color:magenta;
+  width:200px;
+  height:100px;
+  font-size:36px;
+}
+.btn {
+  background-color:violet;
+  color:midnightblue;
+  font-size:64px;
+  width:300px;
+  height:75px;
+  border: ridge navy 4px;
+}
+.label {
+  font-size:400%;
+}
